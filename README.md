@@ -1,0 +1,1 @@
+This is a sports-news App created in react currently for mobile use
