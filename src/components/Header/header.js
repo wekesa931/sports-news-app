@@ -5,6 +5,7 @@ import FontAwesome from 'react-fontawesome';
 import SideNav from './SideNav/sideNav';
 
 
+
 const Header = (props)=>{
 
     const navBars= ()=> {
